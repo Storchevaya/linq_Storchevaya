@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\LINQ_1_Storchevaya_Melekhova\obj\Debug\LINQ_1_Storchevaya_Melekhova.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\LINQ_1_Storchevaya_Melekhova\obj\Debug\LINQ_1_Storchevaya_Melekhova.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\LINQ_1_Storchevaya_Melekhova\bin\Debug\LINQ_1_Storchevaya_Melekhova.exe.config
+C:\Users\1\Desktop\LINQ_1_Storchevaya_Melekhova\bin\Debug\LINQ_1_Storchevaya_Melekhova.exe
+C:\Users\1\Desktop\LINQ_1_Storchevaya_Melekhova\bin\Debug\LINQ_1_Storchevaya_Melekhova.pdb
+C:\Users\1\Desktop\LINQ_1_Storchevaya_Melekhova\obj\Debug\LINQ_1_Storchevaya_Melekhova.exe
+C:\Users\1\Desktop\LINQ_1_Storchevaya_Melekhova\obj\Debug\LINQ_1_Storchevaya_Melekhova.pdb

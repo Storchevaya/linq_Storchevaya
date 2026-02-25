@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\LINQ_2_Storchevaya\bin\Debug\LINQ_2_Storchevaya.exe.config
+C:\Users\1\Desktop\LINQ_2_Storchevaya\bin\Debug\LINQ_2_Storchevaya.exe
+C:\Users\1\Desktop\LINQ_2_Storchevaya\bin\Debug\LINQ_2_Storchevaya.pdb
+C:\Users\1\Desktop\LINQ_2_Storchevaya\obj\Debug\LINQ_2_Storchevaya.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\LINQ_2_Storchevaya\obj\Debug\LINQ_2_Storchevaya.Form1.resources
+C:\Users\1\Desktop\LINQ_2_Storchevaya\obj\Debug\LINQ_2_Storchevaya.Properties.Resources.resources
+C:\Users\1\Desktop\LINQ_2_Storchevaya\obj\Debug\LINQ_2_Storchevaya.csproj.GenerateResource.cache
+C:\Users\1\Desktop\LINQ_2_Storchevaya\obj\Debug\LINQ_2_Storchevaya.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\LINQ_2_Storchevaya\obj\Debug\LINQ_2_Storchevaya.exe
+C:\Users\1\Desktop\LINQ_2_Storchevaya\obj\Debug\LINQ_2_Storchevaya.pdb
